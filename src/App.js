@@ -108,7 +108,7 @@ function App() {
                   </div>
                 </div>
             </div>
-            <div className='bg-gray-200 w-full lg:w-2/3 rounded-sm p-8  lg:px-20 flex justify-between content-center items-center'>
+            <div className='bg-gray-100 w-full lg:w-2/3 rounded-sm p-8  lg:px-20 flex justify-between content-center items-center'>
                 <div className='max-w-44'>
                   <h5 className='font-medium text-lg my-2'>How are we doing?</h5>
                   <p className='text-sm'>Help improve the 
